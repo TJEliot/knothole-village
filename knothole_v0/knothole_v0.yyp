@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "23b2ac98-6325-4a2d-ae3b-f6eb93d3d8b5",
+            "Value": {
+                "id": "84eb8741-aec7-4f45-95d3-1ee560c1c038",
+                "resourcePath": "sprites\/green_hill\/green_hill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2bf52067-5d38-4417-bffc-7d40797c1735",
             "Value": {
                 "id": "8afeb1e4-faa4-4810-a536-c66f9b18c69c",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "3c23847c-caae-4c74-9c19-e019e35b27ef",
+            "Value": {
+                "id": "60d43fbc-55b2-43a0-91a5-054ca3cc5fed",
+                "resourcePath": "sprites\/sally_jump\/sally_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "426a0905-80a6-4f6c-af7e-8422fb684f63",
             "Value": {
                 "id": "dc16f0de-276f-417e-a34b-4a38406eca87",
@@ -84,6 +100,14 @@
                 "id": "91d53d4e-387a-47c8-a01c-fea20d230b6f",
                 "resourcePath": "views\/428b4fba-f37d-43f8-822c-cfcfc70d0548.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47e6a46e-cc58-40d2-ae17-e530aef9a656",
+            "Value": {
+                "id": "a26bbe6c-d195-42e9-ac4f-cd169df5a9e1",
+                "resourcePath": "sprites\/sally_running_fullspeed\/sally_running_fullspeed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -106,7 +130,7 @@
             "Key": "5c01ebe3-1509-4bd0-b3af-0aedff515bfb",
             "Value": {
                 "id": "ebb358ca-4e6b-47fb-bab4-3359474eca81",
-                "resourcePath": "objects\/oPlain_ground\/oPlain_ground.yy",
+                "resourcePath": "objects\/oWall\/oWall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -127,6 +151,14 @@
             }
         },
         {
+            "Key": "766cc43a-8ff6-4733-919d-436b6f039174",
+            "Value": {
+                "id": "59b31826-201e-4888-b73d-2b955bf9ee9d",
+                "resourcePath": "sprites\/mushroom_hill\/mushroom_hill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7bee62b9-044a-449f-b9d8-687731c44e58",
             "Value": {
                 "id": "7f84bc95-f8ff-4100-be2e-c934f3086414",
@@ -135,11 +167,35 @@
             }
         },
         {
+            "Key": "80294b03-0a0a-4613-b226-9559e12eb5d9",
+            "Value": {
+                "id": "23ab8b3b-765f-4525-b798-2bdfbc1805f1",
+                "resourcePath": "sprites\/sally_fall\/sally_fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84684d1f-cb00-40ab-bac4-8e9550147269",
             "Value": {
                 "id": "79fe5aa1-ea02-4837-bbe9-53351bc3df41",
                 "resourcePath": "views\/84684d1f-cb00-40ab-bac4-8e9550147269.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b07c38d7-f91a-4d08-acf7-e2852fa68edf",
+            "Value": {
+                "id": "afe68615-0127-4e39-9ce4-2f150b106966",
+                "resourcePath": "tilesets\/tileset0\/tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "bb2b2545-5679-4ea0-9627-7d66e543ee45",
+            "Value": {
+                "id": "c03008b5-8ae8-43a0-846a-16ce4db99cc5",
+                "resourcePath": "sprites\/background_mushroom_hill\/background_mushroom_hill.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +260,14 @@
                 "id": "a9e0fa1b-4393-421c-a56f-977d87c2fad6",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f844dd29-6198-4c13-b859-d24642d4a85c",
+            "Value": {
+                "id": "4ec72c08-fb4e-43bc-bd80-1f124e413aeb",
+                "resourcePath": "sprites\/sally_running\/sally_running.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
