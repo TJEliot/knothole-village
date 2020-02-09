@@ -87,11 +87,27 @@
             }
         },
         {
+            "Key": "4b59c2b2-4f85-48b3-89b4-99a833fa763e",
+            "Value": {
+                "id": "401e362a-159f-44e8-ae32-b1fe778180fb",
+                "resourcePath": "objects\/oPlayer\/oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "507b52da-aa47-4d49-ae95-25ff91173c25",
             "Value": {
                 "id": "c03ea6d6-5f5c-4641-b1d4-84172c4be3b3",
                 "resourcePath": "views\/507b52da-aa47-4d49-ae95-25ff91173c25.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c01ebe3-1509-4bd0-b3af-0aedff515bfb",
+            "Value": {
+                "id": "ebb358ca-4e6b-47fb-bab4-3359474eca81",
+                "resourcePath": "objects\/oPlain_ground\/oPlain_ground.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +164,22 @@
                 "id": "42096144-d172-4750-a438-b314f50794a7",
                 "resourcePath": "views\/d321a441-5fba-4e35-8178-608d54104dc1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7d12c61-1c68-4ff0-ad2c-769862689511",
+            "Value": {
+                "id": "a61a6d37-02e2-4618-b633-1f235c15d41b",
+                "resourcePath": "sprites\/sprite0\/sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8b642ae-eaa2-4b0e-850d-ceed84eb4d84",
+            "Value": {
+                "id": "2e5ee193-b29e-436b-9714-44b9e2745040",
+                "resourcePath": "sprites\/sally_standing_1\/sally_standing_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
