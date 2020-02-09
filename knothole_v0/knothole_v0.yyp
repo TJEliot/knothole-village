@@ -31,10 +31,18 @@
     },
     "resources": [
         {
+            "Key": "165c963d-01f0-40b1-826a-d2fc508eab01",
+            "Value": {
+                "id": "f273599c-d3c6-46f4-8992-a0d3d149e17c",
+                "resourcePath": "rooms\/title_screen2\/title_screen2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1b91db55-2f6a-4ff3-84a8-8db5579248f6",
             "Value": {
                 "id": "784378a3-72c3-4267-a8fe-cbc40b84cacd",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/knothole\/knothole.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "412b5dfe-17c5-4e6c-8194-af9234c09865",
+            "Value": {
+                "id": "0cb16ba5-9ad9-4922-bb03-ded65158c89f",
+                "resourcePath": "sprites\/title1\/title1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "426a0905-80a6-4f6c-af7e-8422fb684f63",
             "Value": {
                 "id": "dc16f0de-276f-417e-a34b-4a38406eca87",
@@ -164,6 +180,14 @@
                 "id": "ebb358ca-4e6b-47fb-bab4-3359474eca81",
                 "resourcePath": "objects\/oWall\/oWall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "614e959b-3a67-4006-8ed0-66ab1c48dff9",
+            "Value": {
+                "id": "e3bfe922-ca74-4e82-b013-3b6053ca113d",
+                "resourcePath": "rooms\/title_screen1\/title_screen1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -247,6 +271,22 @@
             }
         },
         {
+            "Key": "88478015-9373-4f12-ba7b-34bfb2872de4",
+            "Value": {
+                "id": "c0452203-3b66-4f4a-b39d-7ef187c3eca4",
+                "resourcePath": "objects\/object5\/object5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8bf5a9af-58ed-4f2f-bebf-69b84fcd3410",
+            "Value": {
+                "id": "cb43ec63-35b5-49e5-b8a0-f5265f88e93d",
+                "resourcePath": "objects\/object6\/object6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95af4078-54ec-439d-b715-ebdfdefd3924",
             "Value": {
                 "id": "5fcd8240-f215-49c6-bcb9-34c045564edc",
@@ -284,6 +324,14 @@
                 "id": "afe68615-0127-4e39-9ce4-2f150b106966",
                 "resourcePath": "tilesets\/green_hill_big\/green_hill_big.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "b9a50f56-4892-448f-ad2c-4b53b0c73108",
+            "Value": {
+                "id": "8977e607-0ea2-4232-aa13-942e7bb1d57c",
+                "resourcePath": "sprites\/title2\/title2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
