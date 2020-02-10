@@ -386,7 +386,7 @@
             "Key": "9b8ccb95-ae7b-4a5b-b118-465a201957ef",
             "Value": {
                 "id": "b84b2be9-dc31-4b14-a1ac-d07823e525cb",
-                "resourcePath": "objects\/rotor_npc\/rotor_npc.yy",
+                "resourcePath": "objects\/oRotor_npc\/oRotor_npc.yy",
                 "resourceType": "GMObject"
             }
         },
