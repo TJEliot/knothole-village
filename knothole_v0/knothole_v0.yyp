@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0957fafb-f9a9-40e6-b86a-dcc103665f69",
+            "Value": {
+                "id": "a899e693-c390-4abd-add8-edd79ae54bfe",
+                "resourcePath": "views\/0957fafb-f9a9-40e6-b86a-dcc103665f69.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "10fd2bde-0997-40f2-b523-92716d8e893c",
             "Value": {
                 "id": "bd32c639-cf75-490e-93fa-5940b00e33ce",
@@ -68,22 +76,6 @@
                 "id": "8138c225-ea76-49a2-9b16-a76f0ad94b8b",
                 "resourcePath": "scripts\/sally_move\/sally_move.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "165c963d-01f0-40b1-826a-d2fc508eab01",
-            "Value": {
-                "id": "f273599c-d3c6-46f4-8992-a0d3d149e17c",
-                "resourcePath": "rooms\/title_screen2\/title_screen2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "165f981c-2fc9-4a69-a81c-68c00c48b8f9",
-            "Value": {
-                "id": "ad4cac89-bb52-42da-9a11-8f6757728ed3",
-                "resourcePath": "sprites\/sprite35\/sprite35.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,6 +223,14 @@
             }
         },
         {
+            "Key": "3f8c06d7-5314-447d-871d-a7944e5a028e",
+            "Value": {
+                "id": "cf0f5a4e-e2ae-4e98-8976-5fb8970e1125",
+                "resourcePath": "objects\/object28\/object28.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "412b5dfe-17c5-4e6c-8194-af9234c09865",
             "Value": {
                 "id": "0cb16ba5-9ad9-4922-bb03-ded65158c89f",
@@ -303,6 +303,22 @@
             }
         },
         {
+            "Key": "5141c06f-ede7-42ee-a283-2d114106cff9",
+            "Value": {
+                "id": "10c481ab-b9c5-46d1-8e2f-7ed772c36cbe",
+                "resourcePath": "sprites\/intro_animation_sprite1\/intro_animation_sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "564b8b16-1345-4e88-9b3f-02f60305b1e8",
+            "Value": {
+                "id": "175fe8b9-5e00-4803-9774-9462565cd231",
+                "resourcePath": "paths\/path0\/path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "59082321-9fc2-4b89-b3b5-add7c6753e11",
             "Value": {
                 "id": "59b0d0cc-7f9c-412a-9d17-e00272019a19",
@@ -351,11 +367,27 @@
             }
         },
         {
+            "Key": "64c273d4-e69d-4f9a-913f-fcc533a535b1",
+            "Value": {
+                "id": "6162a0ec-1e85-4182-bd05-cd81ce5ae15e",
+                "resourcePath": "scripts\/sally_shoot\/sally_shoot.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6695cd61-3dee-4da7-ac81-c76e2f5f1f6b",
             "Value": {
                 "id": "8d839335-54ed-4d59-a587-ef3a06d6750c",
                 "resourcePath": "objects\/oBranchRight\/oBranchRight.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66f5a835-b7ec-4364-bc31-a8bedc994216",
+            "Value": {
+                "id": "4f5cc3cc-902a-4130-8e79-4126acb576c7",
+                "resourcePath": "sprites\/sally_standing_shooting_sprite\/sally_standing_shooting_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -380,6 +412,14 @@
                 "id": "ceab8ad7-8bc4-44ca-8158-0283308788d0",
                 "resourcePath": "objects\/oBunnie\/oBunnie.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7157c192-42e8-4a67-b956-20688cf3c6f2",
+            "Value": {
+                "id": "1b325d99-3532-4390-89b7-463129bf7fed",
+                "resourcePath": "scripts\/sally_animation\/sally_animation.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -559,11 +599,27 @@
             }
         },
         {
+            "Key": "8ff9a4c9-2d1b-40cf-a021-b1bc4c3916bd",
+            "Value": {
+                "id": "38edf84f-c9cb-4732-9e7a-32af9581a574",
+                "resourcePath": "sprites\/genocide_city_background_sprite\/genocide_city_background_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "905aac18-652b-4f45-b925-deab0cd3ee49",
             "Value": {
                 "id": "6cea3918-bdff-4613-b2d8-90d262f92b44",
                 "resourcePath": "objects\/oPractice_dummy\/oPractice_dummy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "93f5085d-83a8-45b7-8474-3ba5486e87aa",
+            "Value": {
+                "id": "d8a81276-3851-4fcf-86cd-9687a71bfb00",
+                "resourcePath": "sprites\/swatbot_walking_sprite\/swatbot_walking_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -663,6 +719,14 @@
             }
         },
         {
+            "Key": "b981d464-b600-4087-a1a5-9ba385b29167",
+            "Value": {
+                "id": "1b7807b0-0338-45a5-826b-a2ed1e3fd56f",
+                "resourcePath": "sprites\/swatbot_turning_sprite\/swatbot_turning_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9a50f56-4892-448f-ad2c-4b53b0c73108",
             "Value": {
                 "id": "8977e607-0ea2-4232-aa13-942e7bb1d57c",
@@ -692,6 +756,14 @@
                 "id": "2aeca24a-4ce7-4ec5-bf6b-ceab18425ea8",
                 "resourcePath": "sprites\/branchright\/branchright.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c1486f7d-7443-4a1b-bf03-04e4ef477581",
+            "Value": {
+                "id": "f1ff1e0c-b6c3-4fc5-9934-839263e94462",
+                "resourcePath": "objects\/swatbot\/swatbot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -847,6 +919,14 @@
             }
         },
         {
+            "Key": "e8826ae6-22eb-4a92-aec7-9dc6332e8830",
+            "Value": {
+                "id": "77e83b79-3603-4901-acfb-f56f44b91cf6",
+                "resourcePath": "sprites\/sprite46\/sprite46.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eeabad66-adac-4b8a-bcc6-9e2cb09483d4",
             "Value": {
                 "id": "508a3f9c-be48-4441-8a53-9026c21705bd",
@@ -903,6 +983,14 @@
             }
         },
         {
+            "Key": "f7b47a9f-8eae-4382-8196-aa8b37b1849f",
+            "Value": {
+                "id": "c0fc2673-803d-4106-9777-527176791018",
+                "resourcePath": "sprites\/sally_shooting_jumping_sprite\/sally_shooting_jumping_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f7d275b0-f893-4629-8d85-06d828c3f1fa",
             "Value": {
                 "id": "352da629-6dac-4813-8778-49435fe426f1",
@@ -932,7 +1020,9 @@
         "d0abb290-10ab-49b0-9cfc-471af07b8fcf",
         "7f4dcf7b-8f60-48a4-9701-504983c513f0",
         "10fd2bde-0997-40f2-b523-92716d8e893c",
-        "29023ce5-0440-45ba-9533-e4eebe3d8184"
+        "29023ce5-0440-45ba-9533-e4eebe3d8184",
+        "64c273d4-e69d-4f9a-913f-fcc533a535b1",
+        "7157c192-42e8-4a67-b956-20688cf3c6f2"
     ],
     "tutorial": ""
 }
