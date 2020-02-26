@@ -135,19 +135,27 @@
             }
         },
         {
+            "Key": "19dca51c-bb6e-487c-ab61-f4811861b16e",
+            "Value": {
+                "id": "03e5e410-e6d8-4717-a5a3-60548ec90d8b",
+                "resourcePath": "objects\/oTextBox\/oTextBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1af7f451-6941-4db0-8a07-0a1e082adbf2",
+            "Value": {
+                "id": "01efb4ce-43d5-4050-b9b4-5fea51052842",
+                "resourcePath": "objects\/oGenocidePlatform\/oGenocidePlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b61a8e9-1d2e-4afe-85bc-31fea78016c4",
             "Value": {
                 "id": "6faa6a0e-5510-4edf-8e68-d90be2e2cc4c",
                 "resourcePath": "sprites\/genocide_city_background_blue\/genocide_city_background_blue.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1b91db55-2f6a-4ff3-84a8-8db5579248f6",
-            "Value": {
-                "id": "784378a3-72c3-4267-a8fe-cbc40b84cacd",
-                "resourcePath": "rooms\/knothole\/knothole.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -180,6 +188,14 @@
                 "id": "202bab9b-3428-43ff-912b-8e18db346994",
                 "resourcePath": "views\/1fa52ccb-fceb-416b-ba21-0261feaf9d22.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "214566d7-4b68-4621-863e-3856cbfcf883",
+            "Value": {
+                "id": "3d991450-c5e8-4c0c-be91-471c8f32cffb",
+                "resourcePath": "sprites\/textbox_sprite\/textbox_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "2a29ff15-da6e-42a2-9dc0-ddaa40bfba0d",
+            "Value": {
+                "id": "02133c18-2633-470c-ba4f-bf5ac8a20ca5",
+                "resourcePath": "views\/2a29ff15-da6e-42a2-9dc0-ddaa40bfba0d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2bf52067-5d38-4417-bffc-7d40797c1735",
             "Value": {
                 "id": "8afeb1e4-faa4-4810-a536-c66f9b18c69c",
@@ -250,7 +274,7 @@
             "Key": "2f2d8902-6007-494e-b334-0e82f91eb5a9",
             "Value": {
                 "id": "77d38ab1-07e6-4e74-b3a2-a07bea6c7d9a",
-                "resourcePath": "sprites\/sprite52\/sprite52.yy",
+                "resourcePath": "sprites\/genocide_city_sprite_sheet\/genocide_city_sprite_sheet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "3e351bf1-2563-40a1-b961-d3c7b588267f",
+            "Value": {
+                "id": "088d4b93-f4d2-4ae8-9b24-1fffba7ff4d9",
+                "resourcePath": "sprites\/green_floor\/green_floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f1cc328-caa6-48e4-a202-762ee93c2d5c",
             "Value": {
                 "id": "21b0cb06-9690-4df8-868e-55157fda3f92",
@@ -407,6 +439,14 @@
             }
         },
         {
+            "Key": "469e6a91-dac2-4dbb-add0-b4375de222cb",
+            "Value": {
+                "id": "d82e47ac-6cfb-4ae2-a085-630293220c62",
+                "resourcePath": "objects\/genocide_platform_intangible\/genocide_platform_intangible.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "475708a7-8154-4d30-95d5-2d3b6c555883",
             "Value": {
                 "id": "b0806db2-bb96-4aef-8b5a-f9911e83668d",
@@ -419,14 +459,6 @@
             "Value": {
                 "id": "a26bbe6c-d195-42e9-ac4f-cd169df5a9e1",
                 "resourcePath": "sprites\/sally_running_fullspeed\/sally_running_fullspeed.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "48de1efb-1aa0-4ac5-a67c-8268921a4c80",
-            "Value": {
-                "id": "b0d44489-dbd9-4e9c-9808-8b912305920f",
-                "resourcePath": "sprites\/rain_sprite1\/rain_sprite1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -474,7 +506,7 @@
             "Key": "570da5b9-738f-46cc-b588-f884188bf646",
             "Value": {
                 "id": "193ae531-b269-4931-9051-48ba47557012",
-                "resourcePath": "rooms\/room3\/room3.yy",
+                "resourcePath": "rooms\/knothole\/knothole.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -490,7 +522,7 @@
             "Key": "59082321-9fc2-4b89-b3b5-add7c6753e11",
             "Value": {
                 "id": "59b0d0cc-7f9c-412a-9d17-e00272019a19",
-                "resourcePath": "objects\/green_platform\/green_platform.yy",
+                "resourcePath": "objects\/green_platform_intangible\/green_platform_intangible.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -531,6 +563,14 @@
             "Value": {
                 "id": "f46d69ab-ca42-4b13-a174-15de747b824f",
                 "resourcePath": "sprites\/spring1\/spring1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "611503e6-2567-43a5-b88d-5a3f8da4c869",
+            "Value": {
+                "id": "64daab84-7e69-43c7-ae10-2be721494cdc",
+                "resourcePath": "sprites\/tv_box_sprite\/tv_box_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -639,6 +679,14 @@
             }
         },
         {
+            "Key": "6ff4265f-e348-49a2-9df9-5ca69cc8b7ce",
+            "Value": {
+                "id": "3687da44-e3ec-4e80-9da5-67e2b34e229b",
+                "resourcePath": "sprites\/intangible_border_genocide_city\/intangible_border_genocide_city.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7157c192-42e8-4a67-b956-20688cf3c6f2",
             "Value": {
                 "id": "1b325d99-3532-4390-89b7-463129bf7fed",
@@ -727,6 +775,14 @@
             }
         },
         {
+            "Key": "7b806842-2086-48d4-89b7-14c9a870e99a",
+            "Value": {
+                "id": "ff393b43-eb27-4bcb-9f54-c1237b36ad6e",
+                "resourcePath": "fonts\/font0\/font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7bee62b9-044a-449f-b9d8-687731c44e58",
             "Value": {
                 "id": "7f84bc95-f8ff-4100-be2e-c934f3086414",
@@ -807,6 +863,14 @@
             }
         },
         {
+            "Key": "81b79353-b7fb-4cd8-bc88-18ccf1eb4f8d",
+            "Value": {
+                "id": "8daaeda8-23ce-4921-8247-33a949a7bd05",
+                "resourcePath": "sprites\/genocide_city_platform_sprite\/genocide_city_platform_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82e462ee-500c-430c-a2aa-5385ca12215b",
             "Value": {
                 "id": "67a31af0-ed2b-44ee-a438-78be5995f6fc",
@@ -831,6 +895,14 @@
             }
         },
         {
+            "Key": "85bd565b-5672-4b98-b4af-86fb8d0e4d2b",
+            "Value": {
+                "id": "540017d0-85ef-4697-887b-1a98bfd3e1b0",
+                "resourcePath": "views\/85bd565b-5672-4b98-b4af-86fb8d0e4d2b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "88478015-9373-4f12-ba7b-34bfb2872de4",
             "Value": {
                 "id": "c0452203-3b66-4f4a-b39d-7ef187c3eca4",
@@ -851,6 +923,22 @@
             "Value": {
                 "id": "61eaf680-5b93-4b33-8411-fcc7c9affd12",
                 "resourcePath": "objects\/object31\/object31.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8d6a620f-f1f1-417d-b35b-654f389e5ce0",
+            "Value": {
+                "id": "dd1aedf0-c233-4f37-a8e7-5aca79c1065d",
+                "resourcePath": "objects\/otv_box\/otv_box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e13369a-1441-4f35-bd0f-67039928ab9e",
+            "Value": {
+                "id": "c8e93f1e-ce3b-48b0-905e-79c321862b4a",
+                "resourcePath": "objects\/oGreenPlatform\/oGreenPlatform.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -927,6 +1015,14 @@
             }
         },
         {
+            "Key": "9befbe3f-9d22-4a41-b4ba-1afc962b78dd",
+            "Value": {
+                "id": "11a540f7-fd90-4bc8-bd6c-6a9dd55e1782",
+                "resourcePath": "objects\/walkthrough_edge\/walkthrough_edge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d4e9ccd-fd3d-4f33-a62a-faefeb2d79bf",
             "Value": {
                 "id": "76f4f6f6-12a7-48c7-95f2-607b311e7899",
@@ -948,6 +1044,14 @@
                 "id": "747e036b-296c-4a90-89b9-d08f5f32018a",
                 "resourcePath": "views\/a45a25a5-f60a-4621-a631-b9b021e7e6f0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a90524a0-8a02-4e36-90c9-6c9fc1cfc9f1",
+            "Value": {
+                "id": "97b2d80d-0023-462a-a8c2-2bd8b6e0070d",
+                "resourcePath": "objects\/object56\/object56.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1071,6 +1175,14 @@
             }
         },
         {
+            "Key": "bd61d5ea-f8af-426c-88fc-cacc69e57519",
+            "Value": {
+                "id": "448dd948-7c6f-456d-ad92-5293093380ee",
+                "resourcePath": "paths\/path2\/path2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "c0d7c392-5e0d-462b-ac43-a05161b2a040",
             "Value": {
                 "id": "c7ac88c0-db97-4c60-b487-7defa9e35170",
@@ -1151,6 +1263,14 @@
             }
         },
         {
+            "Key": "cb15e6d8-c687-4e57-b7fc-780861b6ec23",
+            "Value": {
+                "id": "6d5b2730-a019-40c0-9cc5-6b578cc3a74f",
+                "resourcePath": "objects\/genocide_platform_solid\/genocide_platform_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cbd51975-9fd7-4ca0-9cdd-143f78fa28dd",
             "Value": {
                 "id": "c22b0a98-af32-41c0-ad42-1f4827d7abbb",
@@ -1170,7 +1290,7 @@
             "Key": "cd3a7df6-e2d5-4546-8609-e30c08ab71e3",
             "Value": {
                 "id": "1867dcdc-d8d8-49bf-a103-e05e4e045816",
-                "resourcePath": "objects\/oSmall_interior_platform_right\/oSmall_interior_platform_right.yy",
+                "resourcePath": "objects\/oSmall_interior_platform\/oSmall_interior_platform.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1319,6 +1439,14 @@
             }
         },
         {
+            "Key": "e2eb4fb7-4b6c-45c8-a9da-b4a133d53eb5",
+            "Value": {
+                "id": "22f0783d-3f4d-4b76-b691-88a86a4152f7",
+                "resourcePath": "objects\/green_platform_solid\/green_platform_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e55163a6-e804-4360-9fe3-ed36f1d41f73",
             "Value": {
                 "id": "d92b5ac0-a508-4307-8f0b-bf557a8427b5",
@@ -1399,11 +1527,11 @@
             }
         },
         {
-            "Key": "f1003e87-26d9-4ebf-a17a-7b252067ec0c",
+            "Key": "f057b90e-4ba7-447b-8c27-c5237a7f89b5",
             "Value": {
-                "id": "e4c64462-692f-4aa7-a4c1-daedc83cd910",
-                "resourcePath": "sprites\/small_interior_platform_left\/small_interior_platform_left.yy",
-                "resourceType": "GMSprite"
+                "id": "22c2b602-3cbb-4da7-b737-f94852ea4b5b",
+                "resourcePath": "scripts\/write_text\/write_text.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1487,6 +1615,14 @@
             }
         },
         {
+            "Key": "fa930024-eaf6-4493-8903-a8ad23abb321",
+            "Value": {
+                "id": "b48625cb-dae7-48e7-95d6-d61a3235d62a",
+                "resourcePath": "views\/fa930024-eaf6-4493-8903-a8ad23abb321.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "fb4cb2e6-b247-484a-90bb-21037f8e658b",
             "Value": {
                 "id": "46218a10-f50b-457f-94e4-880fb2481380",
@@ -1518,7 +1654,8 @@
         "10fd2bde-0997-40f2-b523-92716d8e893c",
         "29023ce5-0440-45ba-9533-e4eebe3d8184",
         "64c273d4-e69d-4f9a-913f-fcc533a535b1",
-        "7157c192-42e8-4a67-b956-20688cf3c6f2"
+        "7157c192-42e8-4a67-b956-20688cf3c6f2",
+        "f057b90e-4ba7-447b-8c27-c5237a7f89b5"
     ],
     "tutorial": ""
 }
