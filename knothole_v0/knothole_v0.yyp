@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "0dcc9933-bdc5-4fbc-becf-49be9f1384ea",
+            "Value": {
+                "id": "a9cc2084-c98f-458b-9130-38add0385ca9",
+                "resourcePath": "sprites\/roboticizer_sprite\/roboticizer_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0ff82713-7ca3-46b9-b05a-8daf18f1d758",
+            "Value": {
+                "id": "38317e33-cb06-42ec-877d-81f0f4bdd98e",
+                "resourcePath": "objects\/oRoboticizer\/oRoboticizer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10fd2bde-0997-40f2-b523-92716d8e893c",
             "Value": {
                 "id": "bd32c639-cf75-490e-93fa-5940b00e33ce",
@@ -116,6 +132,14 @@
                 "id": "8138c225-ea76-49a2-9b16-a76f0ad94b8b",
                 "resourcePath": "scripts\/sally_move\/sally_move.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "15d4c26b-09b5-4354-a2a6-7c2a0256e0b3",
+            "Value": {
+                "id": "b720da8d-8330-4351-915c-82be9dc0a697",
+                "resourcePath": "objects\/oInvisible_platform_solid\/oInvisible_platform_solid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +303,14 @@
             }
         },
         {
+            "Key": "316b29e4-efe5-480a-b263-7b8f882eb604",
+            "Value": {
+                "id": "f13c312b-7b02-4ee4-b669-5fa3bf5e490d",
+                "resourcePath": "objects\/oSpotlight\/oSpotlight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32337121-3e82-4508-b06b-2740706f1233",
             "Value": {
                 "id": "71c71193-f825-4bba-bcb8-1ba91c31584a",
@@ -292,6 +324,14 @@
                 "id": "19e8f9ad-a863-4ce1-8081-7a5576da6d9a",
                 "resourcePath": "objects\/oTree_interior\/oTree_interior.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3507a19e-814a-40ab-b261-b3dcb5f1c0e9",
+            "Value": {
+                "id": "b7ae41ec-301c-4daa-9f99-b808245aa761",
+                "resourcePath": "views\/3507a19e-814a-40ab-b261-b3dcb5f1c0e9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -575,6 +615,14 @@
             }
         },
         {
+            "Key": "5d02fb03-bcb2-4352-9766-fc20d2196ddb",
+            "Value": {
+                "id": "ac7d61f0-ae28-4605-9437-a82bb6733bb3",
+                "resourcePath": "sprites\/spotlight_sprite\/spotlight_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d7b97e4-90ae-4921-a557-e8a33fa36532",
             "Value": {
                 "id": "45a065c9-b19c-46bb-b1f5-b746dcbed0b8",
@@ -631,6 +679,14 @@
             }
         },
         {
+            "Key": "656931de-bce2-4bd3-946e-2847ab333ff3",
+            "Value": {
+                "id": "82485890-8b84-4025-92a3-1fc839ce6246",
+                "resourcePath": "sprites\/invisible_sprite\/invisible_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "666e70f8-abf1-41fb-842f-de9bea7224a5",
             "Value": {
                 "id": "10869aa6-abcd-48fc-bbfc-02ccc069ea8e",
@@ -684,6 +740,14 @@
                 "id": "e2d9d0a3-d880-4cb6-afe8-0d45c5c29dfd",
                 "resourcePath": "views\/6c90e909-99ca-4e93-8949-ae92b189ba7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6cfb6e0c-b0d4-45b4-a897-0a51869394a0",
+            "Value": {
+                "id": "a4a8bb36-c557-4e01-a54e-d72f741aa2fa",
+                "resourcePath": "objects\/oInvisible_platform_intangible\/oInvisible_platform_intangible.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1452,6 +1516,14 @@
                 "id": "42096144-d172-4750-a438-b314f50794a7",
                 "resourcePath": "views\/d321a441-5fba-4e35-8178-608d54104dc1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d33c8f6f-6bd3-4171-bc7d-9aee6386adf7",
+            "Value": {
+                "id": "06095c0c-3bc0-4c66-82c7-eda04507e551",
+                "resourcePath": "objects\/oInvisible_platform\/oInvisible_platform.yy",
+                "resourceType": "GMObject"
             }
         },
         {
