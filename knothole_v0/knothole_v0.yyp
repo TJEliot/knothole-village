@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "04105848-8706-476d-95d2-05b6d7e4dee0",
+            "Value": {
+                "id": "4af8e632-4bb6-496c-abf1-cd1f1d2f324c",
+                "resourcePath": "sprites\/tv_box_shield_sprite\/tv_box_shield_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "06949ca6-13b0-42e1-b746-1750c31af815",
             "Value": {
                 "id": "6b9170c3-ec89-402f-ae44-33987bbab9df",
@@ -671,6 +679,14 @@
             }
         },
         {
+            "Key": "54837a95-a174-49e5-88c0-720c711f8894",
+            "Value": {
+                "id": "6e05a5e3-1f79-427a-87f9-3a0acddc71d8",
+                "resourcePath": "objects\/oShieldBox\/oShieldBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "561f0dd6-5fa5-4690-8826-3178a634a079",
             "Value": {
                 "id": "ea169e19-467f-4904-b499-4970e8cb7350",
@@ -700,6 +716,14 @@
                 "id": "f8fbf217-6b46-4d05-8588-4f43069351f3",
                 "resourcePath": "sprites\/genUpRamp_sprite\/genUpRamp_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5785b9fe-013d-40f6-a639-4abd7337bb14",
+            "Value": {
+                "id": "1c4c2719-388e-409b-b97c-98a4fc627f36",
+                "resourcePath": "objects\/oNormalShield\/oNormalShield.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1060,6 +1084,14 @@
                 "id": "bf7d945d-a240-436f-9f28-2c58e33ae093",
                 "resourcePath": "objects\/oAntoine_npc\/oAntoine_npc.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "75cc9319-d6d5-4257-9fb4-b9e1279456cd",
+            "Value": {
+                "id": "82e99253-9991-454c-8de9-264ffc56e20d",
+                "resourcePath": "sprites\/shield_regular_sprite\/shield_regular_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
